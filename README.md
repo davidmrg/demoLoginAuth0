@@ -1,4 +1,4 @@
-# Authapp - Módulo de Login usando tecnología de Auth0 (Authentication as a Service)
+# Authapp - Módulo de Login en Angular usando tecnología de Auth0 - Authentication as a Service (AaaS) 
 
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
