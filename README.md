@@ -6,10 +6,6 @@ Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-
 
 Ejecutar `ng serve` para un servidor de desarrollo. Abrir en navegador `http://localhost:4200/`. La aplicación se refrescará automáticamente si se hace algún cambio en el código fuente.
 
-## Ayuda adicional
-
-Para obtener ayuda en el Angular CLI use `ng help` o visite [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
 ### Pantalla Home sin login:
 ![](src/assets/home.png)
 
@@ -19,3 +15,9 @@ Para obtener ayuda en el Angular CLI use `ng help` o visite [Angular CLI README]
 ### Pantalla Dashboard en una ruta protegida (después de Login):
 ![](src/assets/dashboard.png)
 
+
+## Ayuda adicional
+
+Para obtener ayuda acerca del Angular CLI use `ng help` o visite [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+Para obtener ayuda sobre la implementación de Auth0 en Angular visite [auth0-angular-samples README] https://github.com/auth0-samples/auth0-angular-samples/blob/auth0-spa-js.latest/01-Login/TUTORIAL.md
