@@ -1,0 +1,8 @@
+<p>Aquí estará el contenido protegido (Dashboard Personal) de cada alumno</p>
+<hr>
+
+<pre *ngIf="auth.userProfile$ | async as profile">
+    <code>{{ profile | json }}</code>
+    </pre>
+
+    
