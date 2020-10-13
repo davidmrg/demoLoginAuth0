@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-precios',
-  templateUrl: './precios.component.html',
+  selector: 'app-bienestar',
+  templateUrl: './bienestar.component.html',
   styles: [
   ]
 })
-export class PreciosComponent implements OnInit {
+export class BienestarComponent implements OnInit {
 
   constructor() { }
 

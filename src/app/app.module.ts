@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { HomeComponent } from './components/home/home.component';
 import { ProtegidaComponent } from './components/protegida/protegida.component';
-import { PreciosComponent } from './components/precios/precios.component';
+import { BienestarComponent } from './components/bienestar/bienestar.component';
 import { CallbackComponent } from './components/callback/callback.component';
 
 @NgModule({
@@ -15,7 +15,7 @@ import { CallbackComponent } from './components/callback/callback.component';
     NavbarComponent,
     HomeComponent,
     ProtegidaComponent,
-    PreciosComponent,
+    BienestarComponent,
     CallbackComponent
   ],
   imports: [

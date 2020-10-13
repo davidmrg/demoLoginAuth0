@@ -3,14 +3,14 @@ import { Routes, RouterModule, CanActivate } from '@angular/router';
 import { AuthGuard } from './services/auth.guard';
 
 import { HomeComponent } from './components/home/home.component';
-import { PreciosComponent } from './components/precios/precios.component';
+import { BienestarComponent } from './components/bienestar/bienestar.component';
 import { ProtegidaComponent } from './components/protegida/protegida.component';
 import { CallbackComponent } from './components/callback/callback.component';
 
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
-  { path: 'precios', component: PreciosComponent },
+  { path: 'bienestar', component: BienestarComponent },
   { 
     path: 'protegida', 
     component: ProtegidaComponent,
